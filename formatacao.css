@@ -1,0 +1,19 @@
+h1{
+    color: rgb(255, 255, 255);
+}
+h2{
+    color: rgb(255, 255, 255);
+}
+p{
+    color: white;
+}
+body{
+    background-color: aqua;
+    background-image: url(flufla.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+}
+table{
+    color: white;
+}
